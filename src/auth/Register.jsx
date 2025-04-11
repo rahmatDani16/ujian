@@ -55,9 +55,9 @@ const Register = () => {
     }
 
     try {
-      const response = await axios.post("http://localhost:5007/api/v1/pendaftar", form);
+      const response = await axios.post("https://dani.rikpetik.site/api/v1/pendaftar", form);
       if (response.status === 201) {
-        setSuccessMsg("✅ Pendaftaran Berhasil Dilakukan!");
+        setSuccessMsg(" Pendaftaran Berhasil Dilakukan!");
         setForm({
           nm_pendaftar: "",
           alamat: "",
