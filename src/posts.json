@@ -1,0 +1,37 @@
+[
+{
+    "title": "Tutorial belajar react js lengkap",
+    "tags": ["reactjs", "frontend"],
+    "author": "Reza",
+    "date": "2025-01-01",
+    "isNew": true
+},
+{
+    "title": "Mahir frontend dengan react js",
+    "tags": ["reactjs", "frontend"],
+    "author": "Reza",
+    "date": "2025-02-02",
+    "isNew": true
+},
+{
+    "title": "AI baru dari china, deepseek",
+    "tags": ["teknlogi"],
+    "author": "Faiz",
+    "date": "2025-03-03",
+    "isNew": true
+},
+{
+    "title": "Deal, iPhone 16 bisa dijual di Indonesia",
+    "tags": ["teknologi", "gadget"],
+    "author": "Raihan",
+    "date": "2025-04-04",
+    "isNew": true
+},
+{
+    "title": "Manfaat teknologi digital untuk komunikasi publik",
+    "tags": ["teknologi"],
+    "author": "Raihan",
+    "date": "2025-05-05",
+    "isNew": true
+}
+]
